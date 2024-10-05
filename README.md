@@ -1,8 +1,4 @@
-**Third Bunny** is your fast-moving partner in blockchain security and Web3 solutions. We specialize in protecting blockchain users and developers from frontrunning and sandwich attacks with agility and speed.
-
-## 🌟 Mission
-
-We empower blockchain users with services that enhance transaction privacy and efficiency. Our goal is to secure your transactions and elevate your Web3 experience through private RPC services and consulting.
+# Third Bunny
 
 ## 🚀 Services
 
@@ -10,7 +6,7 @@ We empower blockchain users with services that enhance transaction privacy and e
    Fast, secure, and private RPC endpoints to protect your transactions.
 
 2. **Blockchain Consulting**  
-   - Smart contract design  
+   - Architecture design
    - Security audits  
    - Web3 integration consulting  
 
@@ -24,6 +20,7 @@ We empower blockchain users with services that enhance transaction privacy and e
 
 ## 📫 Get in Touch
 
+- Our website **[thirdbunny.xyz](https://www.thirdbunny.xyz/)**
 - Follow us on **[X (Twitter)](https://x.com/Third_Bunny)**  
 - Contact our spokesperson **[Crypto_Block (Telegram)](https://t.me/John_Prosperr)**  
 
